@@ -4,7 +4,7 @@ A simple user login app built using Vue.js. This app allows access to secure por
 
 ## Prerequisites
 
-- Vue.js cli installed. To install cli run this command `npm install -g @vue/cli`. To check if the cli is already installed run the following command `vue --version`.
+- Vue.js cli installed. To install cli run this command `npm install -g @vue/cli`. To check if the cli is already installed run the following command `vue --version`. This App has been built using **vue/cli 5.0.8** and **npm 9.3.1**
 
 ## Running Project
 
